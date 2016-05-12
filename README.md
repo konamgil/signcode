@@ -1,4 +1,4 @@
-# signcode
+# signcode-oldjs
 
 [![Travis Build Status](https://travis-ci.org/kevinsawicki/signcode.svg?branch=master)](https://travis-ci.org/kevinsawicki/signcode)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
@@ -11,10 +11,12 @@ Works with `.pem`, `.p12`, and `.pfx` code signing files.
 
 Signs with `sha1` and `sha256` signatures by default.
 
+This project is available with Node.js version 4.x.x
+
 ## Installing
 
 ```sh
-npm install --save-dev signcode
+npm install --save-dev signcode-oldjs
 ```
 
 ## Using

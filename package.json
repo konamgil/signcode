@@ -1,6 +1,6 @@
 {
   "name": "signcode-oldjs",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "description": "Sign Windows executables from a Mac",
   "repository": "https://github.com/konamgil/signcode",
   "main": "index.js",
